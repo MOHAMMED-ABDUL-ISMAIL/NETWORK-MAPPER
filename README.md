@@ -4,7 +4,9 @@ network-mapper is LAN scanner in python 3
 
 It can be used to scan a target or a network range
 
-it works on ARP to scan network 
+it works on ARP to scan network
+
+created for debian based OS
 
 # Installation
 
